@@ -1,0 +1,11 @@
+1. inurl:"admin/login.php"
+2. inurl:"/login.php"
+3. inurl:"/admin.php"
+4. inurl:"/index.php?id=1"
+5. inurl:"/about.php?id=1"
+6. inurl:"/contact.php?id=1"
+7. inurl:"home.php?id=1"
+8. inurl:"/product.php?id=1"
+9. inurl:"/menu.php?id=1"
+10. "Index of /admin"
+
